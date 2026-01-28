@@ -18,7 +18,7 @@ There is no hidden listening, background recording, or permanent audio storage.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Shubham naya hacker 
 - Python 3
 - WebSockets
 - HTML & JavaScript
